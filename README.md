@@ -1,1 +1,1 @@
-# Code for working through https://quii.gitbook.io/learn-go-with-tests
+This repository moved to https://codeberg.org/pylbrecht/go-tdd.
